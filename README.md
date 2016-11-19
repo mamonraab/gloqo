@@ -15,11 +15,12 @@ And because I ran out of ways to extend my [personal website](http://www.ritchie
 All source code written specifically to process data for a published paper must be available to the reviewers and readers of the paper.
 
 ## Help Wanted
-1. I am looking for anyone to simply add on their code if they have written any for research papers, in particular deep learning and machine learning. It probably takes less than 5 minutes to add one record on [gloqo](http://sciencecodemanifesto.org).
+1. I am looking for anyone to simply add on their code if they have written any for research papers, in particular deep learning and machine learning. It probably takes less than 5 minutes to add one record on [gloqo](https://www.gloqo.com).
 2. You can simply star this repository and share to promote reproducible research.
 
 ## Format of Code Record
-**Title of the post: Paper's name (programming language/library)**
+Go to [www.gloqo.com](https://www.gloqo.com)
+<br />**Title of the post: Paper's name (programming language/library)**
 <br />**Content of the post: you can copy the following template, paste into your post, and change the necessary parts. It would take less than 5 mins.**
 ```
 1. [Code link](add link here!)
