@@ -9,7 +9,7 @@ This is basically the "Google” for searching code for computer science papers 
 ## Why did I Start Gloqo?
 As an undergraduate conducting research in deep learning, I actively try to verify past papers’ experiments before building on them for major projects and papers. And I found that many, if not most, authors do not release their codes. And there are many issues associated with research that is not reproducible as shown in [Nature Reproducible Research](http://www.nature.com/news/reproducibility-1.17552).
 
-And because I ran out of ways to extend my [personal website](http://www.ritchieng.com) that is proudly served through Github, I decided to just host this separate application where anyone can add new code for research papers. Although I believe initially I would be the only one using this.
+And because I ran out of ways to extend my [personal website](http://www.ritchieng.com) that is proudly served through Github Pages, I decided to just host this separate application where anyone can add new code for research papers. Although I believe initially I would be the only one using this.
 
 ## [Science Code Manifest](http://sciencecodemanifesto.org)
 All source code written specifically to process data for a published paper must be available to the reviewers and readers of the paper.
@@ -19,7 +19,7 @@ I am looking for anyone to simply add on their code if they have written any for
 
 ## Format of Code Record
 **Title of the post: Paper's name (programming language/library)**
-**Content of the post: you can copy the following template, paste into your post, and change the necessary parts. It would take less than 5 mins.**
+<br />**Content of the post: you can copy the following template, paste into your post, and change the necessary parts. It would take less than 5 mins.**
 ```
 1. [Code link](add link here!)
 2. [Paper link](add link here!)
