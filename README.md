@@ -19,8 +19,7 @@ I am looking for anyone to simply add on their code if they have written any for
 
 ## Format of Code Record
 **Title of the post: Paper's name (programming language/library)**
-
-<br />**Content of the post: you can copy the following template, paste into your post, and change the necessary parts. It would take less than 5 mins.**
+**Content of the post: you can copy the following template, paste into your post, and change the necessary parts. It would take less than 5 mins.**
 ```
 1. [Code link](add link here!)
 2. [Paper link](add link here!)
