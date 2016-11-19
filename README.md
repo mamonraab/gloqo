@@ -19,9 +19,9 @@ All source code written specifically to process data for a published paper must 
 2. You can simply star this repository and share to promote reproducible research.
 
 ## Format of Code Record
-Go to [www.gloqo.com](https://www.gloqo.com)
-<br />**Title of the post: Paper's name (programming language/library)**
-<br />**Content of the post: you can copy the following template, paste into your post, and change the necessary parts. It would take less than 5 mins.**
+1. Go to [www.gloqo.com](https://www.gloqo.com)
+2. Title of the post: Paper's name (programming language/library)
+3. Content of the post: you can copy the following template, paste into your post, and change the necessary parts. It would take less than 5 mins.
 ```
 1. [Code link](add link here!)
 2. [Paper link](add link here!)
