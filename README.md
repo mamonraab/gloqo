@@ -1,7 +1,7 @@
 ![gloqo](http://res.cloudinary.com/ritchieng/image/upload/c_scale,w_253/v1479450911/gloqo_edf0ag.png)
 
 ## One Sentence Description
-gloqo.com, the missing companion website for arXiv.org to search for code for research papers on arXiv.org
+[gloqo.com](https://www.gloqo.com), the missing companion website for arXiv.org to search for code for research papers on arXiv.org
 
 ## Longer Description
 This is basically the "Google” for searching code for computer science papers on arXiv. It’s currently concentrated on deep learning and machine learning. I started this companion website to arXiv.org to encourage reproducible research. You can easily search for code that are implemented by the authors themselves or often by others.
